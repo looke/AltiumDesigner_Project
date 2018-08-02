@@ -1,0 +1,27 @@
+Added Component: Designator=CN(HX5.08-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(TO220AC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(TO220AC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(TO220AC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(TO220AC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCN_1 Pin=CN-1
+Added Pin To Net: NetName=NetCN_2 Pin=CN-2
+Added Pin To Net: NetName=NetCN_3 Pin=CN-3
+Added Pin To Net: NetName=NetCN_5 Pin=CN-5
+Added Pin To Net: NetName=NetCN_2 Pin=D1-1
+Added Pin To Net: NetName=NetCN_1 Pin=D1-2
+Added Pin To Net: NetName=NetCN_5 Pin=D2-1
+Added Pin To Net: NetName=NetCN_2 Pin=D2-2
+Added Pin To Net: NetName=NetCN_5 Pin=D3-1
+Added Pin To Net: NetName=NetCN_3 Pin=D3-2
+Added Pin To Net: NetName=NetCN_3 Pin=D4-1
+Added Pin To Net: NetName=NetCN_1 Pin=D4-2
+Added Member To Class: ClassName=Sheet1 Member=Component CN EDG5.08-5P
+Added Member To Class: ClassName=Sheet1 Member=Component D1 VS-HFA08TB60-M3
+Added Member To Class: ClassName=Sheet1 Member=Component D2 VS-HFA08TB60-M3
+Added Member To Class: ClassName=Sheet1 Member=Component D3 VS-HFA08TB60-M3
+Added Member To Class: ClassName=Sheet1 Member=Component D4 VS-HFA08TB60-M3
