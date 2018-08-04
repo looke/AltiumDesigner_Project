@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D5-4
+Removed Pin From Net: NetName=NetD5_6 Pin=D5-6
+Added Component: Designator=D5(DIP8-300_MH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D5-4
+Added Pin To Net: NetName=NetD5_6 Pin=D5-6
